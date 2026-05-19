@@ -1,8 +1,8 @@
 Reflexión sobre integración Frontend-Backend – Clase 23
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Tania Lizeth Trejo Santacruz
+Fecha: 19/05/2026
+Nombre de la rama: tania_lizeth_trejo_santacruz
 
 Escribe una reflexión de 8 a 10 líneas respondiendo:
 
@@ -28,4 +28,12 @@ En tu respuesta menciona al menos cinco de estas ideas:
 - participación ciudadana
 - cultura de paz
 
-Respuesta:
+Respuesta: Creo que conectar el frontend con el backend ayuda mucho porque la información del mini-sitio 
+se puede actualizar más rápido y de forma más organizada. El frontend muestra los mensajes que ve la comunidad 
+y el backend guarda toda la información en la API. Con fetch, async y await los datos se cargan automáticamente 
+desde los archivos JSON y aparecen en el tablero sin necesidad de escribir todo manualmente. 
+También me pareció útil porque los mensajes dinámicos permiten cambiar información fácilmente y verla 
+reflejada al reiniciar el servidor. Además, esto ayuda a mantener una comunicación responsable y una 
+mejor revisión de fuentes antes de publicar algo. Pienso que la consistencia comunicativa y la moderación 
+editorial básica son importantes para que la comunidad entienda mejor los mensajes. Todo esto puede ayudar 
+a que haya más participación ciudadana y una mejor cultura de paz en los espacios digitales.

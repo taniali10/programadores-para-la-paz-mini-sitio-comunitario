@@ -1,8 +1,8 @@
 Mapa del flujo Frontend-Backend – Clase 23
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Tania Lizeth Trejo Santacruz
+Fecha: 19/05/2026
+Nombre de la rama: tania_lizeth_trejo_santacruz
 
 Completa el flujo con tus palabras.
 
@@ -10,58 +10,58 @@ Completa el flujo con tus palabras.
 
 ¿Qué parte del proyecto corresponde al frontend?
 
-Respuesta:
+Respuesta: Es la parte visual del mini-sitio que aparece en el navegador.
 
 2. Backend
 
 ¿Qué parte del proyecto corresponde al backend?
 
-Respuesta:
+Respuesta: Es la parte que maneja las rutas y entrega la información desde el servidor.
 
 3. API propia
 
 ¿Qué rutas expone la API propia del proyecto?
 
-Respuesta:
+Respuesta: /api/mensajes, /api/calendario y /api/resumen.
 
 4. Datos
 
 ¿Qué archivos JSON usa el backend para responder?
 
-Respuesta:
+Respuesta: mensajes.json y calendario-editorial.json.
 
 5. Consulta desde frontend
 
 ¿Qué función de JavaScript se usa para consultar la API?
 
-Respuesta:
+Respuesta: Se usa fetch.
 
 6. Espera de respuesta
 
 ¿Qué palabras se usan para esperar la respuesta del servidor?
 
-Respuesta:
+Respuesta: async y await.
 
 7. Conversión de respuesta
 
 ¿Qué hace respuesta.json()?
 
-Respuesta:
+Respuesta: Convierte la respuesta en datos JSON para poder usarlos.
 
 8. Render dinámico
 
 ¿Qué significa mostrar datos dinámicamente en el tablero?
 
-Respuesta:
+Respuesta: Significa mostrar información automáticamente desde la API en el tablero.
 
 9. Prueba
 
 ¿Cómo verificaste que la información del tablero coincide con la API?
 
-Respuesta:
+Respuesta: Comparé la información de las rutas con la que aparece en el mini-sitio.
 
 10. Propósito comunitario
 
 ¿Cómo ayuda esta integración a mantener información comunitaria actualizable?
 
-Respuesta:
+Respuesta: Ayuda a mantener la información organizada y fácil de actualizar para la comunidad.

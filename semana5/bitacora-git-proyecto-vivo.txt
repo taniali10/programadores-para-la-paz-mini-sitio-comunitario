@@ -10,7 +10,7 @@ Respuesta: pogramadores-para-la-paz-mini-sitio-comunitario
 
 2. ¿Qué rama actualizan los docentes?
 
-Respuesta: main
+Respuesta: La rama main
 
 3. ¿Qué rama usa cada estudiante para trabajar?
 
