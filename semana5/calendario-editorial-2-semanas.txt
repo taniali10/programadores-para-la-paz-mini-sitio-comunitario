@@ -1,123 +1,123 @@
 Calendario editorial de 2 semanas – Clase 21
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Tania Lizeth Trejo Santacruz
+Fecha: 19/05/2026
+Nombre de la rama: tania_lizeth_trejo_santacruz
 
 Tema general de la campaña comunitaria:
 
-Respuesta:
+Respuesta: Difusión responsable y convivencia digital.
 
 Pieza 1
 
-Semana:
-Día:
-Fecha:
-Tema:
-Tipo de pieza:
-Canal:
-Público objetivo:
-Propósito:
-Responsable:
-Mensaje:
-Tono:
-Llamado a la acción:
-Fuente o criterio de verificación:
-Observaciones editoriales:
+Semana: 1
+Día: Lunes
+Fecha: Pendiente por definir
+Tema: Verificación de información
+Tipo de pieza: Aviso
+Canal: Moodle o red comunitaria
+Público objetivo: Comunidad general
+Propósito: Evitar información falsa.
+Responsable: Equipo de comunicaciones
+Mensaje: Verifica siempre la fuente antes de compartir información.
+Tono: Preventivo
+Llamado a la acción: Revisa la fuente antes de reenviar.
+Fuente o criterio de verificación: Canal institucional comunitario
+Observaciones editoriales: Revisar fecha y responsable.
 ¿Usa lenguaje responsable y no estigmatizante?
-Respuesta:
+Respuesta: Sí.
 
 Pieza 2
 
-Semana:
-Día:
-Fecha:
-Tema:
-Tipo de pieza:
-Canal:
-Público objetivo:
-Propósito:
-Responsable:
-Mensaje:
-Tono:
-Llamado a la acción:
-Fuente o criterio de verificación:
-Observaciones editoriales:
+Semana: 1
+Día: Miércoles
+Fecha: Pendiente por definir
+Tema: Convivencia digital
+Tipo de pieza: Mensaje pedagógico
+Canal: Grupo comunitario
+Público objetivo: Jóvenes participantes
+Propósito: Promover respeto en redes.
+Responsable: Equipo de comunicaciones
+Mensaje: Participa con respeto y evita ofensas.
+Tono: Pedagógico
+Llamado a la acción: Comenta de manera respetuosa.
+Fuente o criterio de verificación: Equipo de comunicaciones
+Observaciones editoriales: Evitar mensajes ofensivos.
 ¿Usa lenguaje responsable y no estigmatizante?
-Respuesta:
+Respuesta: Sí.
 
 Pieza 3
 
-Semana:
-Día:
-Fecha:
-Tema:
-Tipo de pieza:
-Canal:
-Público objetivo:
-Propósito:
-Responsable:
-Mensaje:
-Tono:
-Llamado a la acción:
-Fuente o criterio de verificación:
-Observaciones editoriales:
+Semana: 1
+Día: Viernes
+Fecha: Pendiente por definir
+Tema: Participación ciudadana
+Tipo de pieza: Convocatoria
+Canal: Mini-sitio comunitario
+Público objetivo: Comunidad general
+Propósito: Invitar a enviar propuestas.
+Responsable: Docentes de comunicaciones
+Mensaje: Comparte ideas para mejorar la comunidad.
+Tono: Convocante
+Llamado a la acción: Envía tu propuesta comunitaria.
+Fuente o criterio de verificación: Formulario comunitario
+Observaciones editoriales: Revisar propuestas antes de publicar.
 ¿Usa lenguaje responsable y no estigmatizante?
-Respuesta:
+Respuesta: Sí.
 
 Pieza 4
 
-Semana:
-Día:
-Fecha:
-Tema:
-Tipo de pieza:
-Canal:
-Público objetivo:
-Propósito:
-Responsable:
-Mensaje:
-Tono:
-Llamado a la acción:
-Fuente o criterio de verificación:
-Observaciones editoriales:
+Semana: 2
+Día: Lunes
+Fecha: Pendiente por definir
+Tema: Seguimiento comunitario
+Tipo de pieza: Resumen
+Canal: Mini-sitio comunitario
+Público objetivo: Líderes comunitarios
+Propósito: Mostrar avances de propuestas.
+Responsable: Equipo técnico y comunicaciones
+Mensaje: Consulta los avances de la comunidad.
+Tono: Informativo
+Llamado a la acción: Revisa las propuestas más frecuentes.
+Fuente o criterio de verificación: API comunitaria
+Observaciones editoriales: No publicar datos personales.
 ¿Usa lenguaje responsable y no estigmatizante?
-Respuesta:
+Respuesta: Sí.
 
 Pieza 5
 
-Semana:
-Día:
-Fecha:
-Tema:
-Tipo de pieza:
-Canal:
-Público objetivo:
-Propósito:
-Responsable:
-Mensaje:
-Tono:
-Llamado a la acción:
-Fuente o criterio de verificación:
-Observaciones editoriales:
+Semana: 2
+Día: Miércoles
+Fecha: Pendiente por definir
+Tema: Lenguaje responsable
+Tipo de pieza: Recordatorio
+Canal: Red comunitaria
+Público objetivo: Jóvenes participantes
+Propósito: Fomentar respeto al comunicarse.
+Responsable: Docentes de comunicaciones
+Mensaje: Evita mensajes ofensivos y respeta opiniones.
+Tono: Pedagógico
+Llamado a la acción: Usa un lenguaje respetuoso.
+Fuente o criterio de verificación: Reglas editoriales mínimas
+Observaciones editoriales: Incluir ejemplos adecuados.
 ¿Usa lenguaje responsable y no estigmatizante?
-Respuesta:
+Respuesta: Sí.
 
 Pieza 6
 
-Semana:
-Día:
-Fecha:
-Tema:
-Tipo de pieza:
-Canal:
-Público objetivo:
-Propósito:
-Responsable:
-Mensaje:
-Tono:
-Llamado a la acción:
-Fuente o criterio de verificación:
-Observaciones editoriales:
+Semana: 2
+Día: Viernes
+Fecha: Pendiente por definir
+Tema: Cierre de difusión responsable
+Tipo de pieza: Balance
+Canal: Moodle o mini-sitio
+Público objetivo: Comunidad general
+Propósito: Compartir resultados de la campaña.
+Responsable: Equipo docente
+Mensaje: Gracias por participar en la campaña comunitaria.
+Tono: Informativo
+Llamado a la acción: Consulta el balance final.
+Fuente o criterio de verificación: Equipo de seguimiento
+Observaciones editoriales: Revisar coherencia de publicaciones.
 ¿Usa lenguaje responsable y no estigmatizante?
-Respuesta:
+Respuesta: Sí.

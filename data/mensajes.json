@@ -1,8 +1,8 @@
 [
     {
       "id": 1,
-      "titulo": "Verifica antes de compartir",
-      "mensaje": "Antes de reenviar información, revisa la fuente, confirma la fecha y evita mensajes alarmistas.",
+      "titulo": "Importante Verifica antes de compartir",
+      "mensaje": "No compartas información sin confirmar su veracidad.",
       "categoria": "prevencion-desinformacion",
       "audiencia": "comunidad general",
       "tono": "preventivo",
