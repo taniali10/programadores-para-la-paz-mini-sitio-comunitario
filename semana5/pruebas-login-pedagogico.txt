@@ -1,8 +1,8 @@
 Pruebas de login pedagógico – Clase 24
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Tania Lizeth Trejo Santacruz
+Fecha: 19/05/2026
+Nombre de la rama: tania_lizeth_trejo_santacruz
 
 Importante:
 Este login es solo pedagógico. No es autenticación real.
@@ -12,10 +12,10 @@ Prueba 1: Abrir mini-sitio
 Dirección:
 http://localhost:3000
 
-Resultado observado:
+Resultado observado: Muestra interfaz de mini-sitio
 
 ¿Funcionó?
-Respuesta:
+Respuesta: Si
 
 Prueba 2: Login con credenciales de demostración
 
@@ -28,10 +28,10 @@ demo
 Resultado esperado:
 El servidor responde con mensaje de login pedagógico correcto.
 
-Resultado observado:
+Resultado observado: Login pedagógico correcto. En la Clase 25 usaremos este token para explicar middleware.
 
 ¿Funcionó?
-Respuesta:
+Respuesta: Si
 
 Prueba 3: Login con clave incorrecta
 
@@ -44,21 +44,22 @@ incorrecta
 Resultado esperado:
 El servidor responde que usuario o clave son incorrectos.
 
-Resultado observado:
+Resultado observado: Usuario o clave de demostración incorrectos.
 
 ¿Funcionó?
-Respuesta:
+Respuesta: Si
 
 Prueba 4: Revisar almacenamiento del token de demostración
 
 ¿Qué token de demostración devuelve el servidor?
 
-Respuesta:
+Respuesta: Usuario o clave de demostración incorrectos.
 
 5. ¿Por qué este token no debe confundirse con seguridad real?
 
-Respuesta:
+Respuesta:Porque solo es una práctica y no protege información real.
 
 6. ¿Para qué se usará este login en la Clase 25?
 
-Respuesta:
+Respuesta: Este login es solo una práctica para preparar el concepto de middleware de la Clase 25.
+

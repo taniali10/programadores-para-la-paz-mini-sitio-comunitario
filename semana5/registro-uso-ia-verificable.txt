@@ -1,8 +1,8 @@
 Registro de uso verificable de IA – Clase 24
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Tania Lizeth Trejo Santacruz
+Fecha: 19/05/2026
+Nombre de la rama: tania_lizeth_trejo_santacruz
 
 Importante:
 La IA puede ayudar a mejorar claridad, ordenar pasos y revisar redacción, pero toda sugerencia debe verificarse en el proyecto real.
@@ -18,32 +18,32 @@ No debes compartir con IA:
 1. ¿Para qué usaste IA en esta clase?
 Ejemplos: mejorar README, organizar pasos de ejecución, aclarar error, revisar redacción.
 
-Respuesta:
+Respuesta: Para aclarar un error.
 
 2. Escribe la pregunta que hiciste a la IA:
 
-Respuesta:
+Respuesta: Cómo revisar si las rutas de la API estan funcionando correctamente.
 
 3. Resume la respuesta recibida:
 
-Respuesta:
+Respuesta: La IA explicó cómo abrir las rutas en el navegador y verificar la respuesta JSON.
 
 4. ¿Qué parte de la respuesta aplicaste?
 
-Respuesta:
+Respuesta: Revisé las rutas y comprobé que cargaran correctamente.
 
 5. ¿Qué parte decidiste no aplicar?
 
-Respuesta:
+Respuesta: No apliqué cambios que no había probado en el proyecto.
 
 6. ¿Cómo verificaste en el proyecto que la sugerencia era correcta?
 
-Respuesta:
+Respuesta: Probando el mini-sitio y las rutas en localhost.
 
 7. ¿Incluiste datos sensibles o credenciales reales en la consulta?
 
-Respuesta:
+Respuesta: No
 
 8. ¿Qué aprendiste sobre uso responsable de IA?
 
-Respuesta:
+Respuesta: Que las respuestas deben revisarse y no compartir información sensible.
