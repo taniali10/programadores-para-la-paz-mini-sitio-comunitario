@@ -14,7 +14,7 @@ Respuesta: main
 
 3. ¿Qué rama usa cada estudiante para trabajar?
 
-Respuesta: Rama personal
+Respuesta: La rama personal
 
 4. Comando usado para clonar el repositorio:
 
