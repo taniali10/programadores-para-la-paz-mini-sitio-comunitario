@@ -54,7 +54,7 @@ Respuesta: git add .
 
 13. Comando usado para crear commit:
 
-Respuesta: git commit -m "Clase 21 inicio proyecto unico mini sitio"
+Respuesta: git commit -m "Clase 25 cierre integrador semana 5"
 
 14. Comando usado para publicar tu rama:
 

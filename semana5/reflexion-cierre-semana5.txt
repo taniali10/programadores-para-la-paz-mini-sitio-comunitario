@@ -1,8 +1,8 @@
 Reflexión de cierre de Semana 5 – Clase 25
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Tania Lizeth Trejo Santacruz
+Fecha: 21/05/2026
+Nombre de la rama: tania_lizeth_trejo_santacruz
 
 Escribe una reflexión de 10 a 12 líneas respondiendo:
 
@@ -42,4 +42,15 @@ En tu respuesta menciona al menos ocho de estas ideas:
 - participación ciudadana
 - cultura de paz
 
-Respuesta:
+Respuesta: Al inicio de las clases sentía que GitHub y Git eran muy difíciles, pero poco a poco entendí cómo trabajar con 
+un repositorio, usar la rama main y manejar mi rama personal sin dañar el proyecto principal. 
+Aprendí a utilizar comandos como git pull, git merge, commit y push para mantener actualizado el trabajo durante 
+cada clase. 
+También mejoré mucho en HTML, CSS y JavaScript al construir el mini-sitio y conectar el frontend con Node.js y Express. 
+Me pareció interesante trabajar con una API propia usando JSON, fetch, async y await para cargar la información dinámicamente. 
+El tablero de mensajes y el calendario editorial me ayudaron a entender que un proyecto no solo debe funcionar técnicamente, 
+sino también comunicar de forma clara y organizada. Además, el README fue importante para documentar el proyecto y 
+facilitar que otras personas puedan entenderlo. Con el login pedagógico y el middleware simple comprendí mejor cómo 
+funcionan las rutas protegidas. También aprendí la importancia de la difusión responsable, la revisión de fuentes y 
+el uso de lenguaje responsable y no estigmatizante. Siento que este proyecto estuvo más conectado con situaciones 
+reales y con ideas de participación ciudadana y cultura de paz.

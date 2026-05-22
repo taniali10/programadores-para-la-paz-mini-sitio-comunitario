@@ -1,8 +1,8 @@
 Evidencia dual de Semana 5 – Clase 25
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Tania Lizeth Trejo Santacruz
+Fecha: 21/05/2026
+Nombre de la rama: tania_lizeth_trejo_santacruz
 
 La evidencia dual de Semana 5 está compuesta por:
 
@@ -10,60 +10,69 @@ La evidencia dual de Semana 5 está compuesta por:
 
 Describe brevemente qué hace el mini-sitio:
 
-Respuesta:
+Respuesta: El mini-sitio permite consultar mensajes comunitarios, un calendario editorial y un resumen del proyecto 
+mediante una API propia desarrollada con Express. También incluye un login pedagógico y una ruta protegida para 
+practicar middleware simple.
 
 Rutas probadas:
 
-Respuesta:
+Respuesta: GET /api/mensajes
+GET /api/calendario
+GET /api/resumen
+POST /api/login
+GET /api/revision-editorial
 
 2. README versionado en Git
 
 Explica qué información contiene el README:
 
-Respuesta:
+Respuesta: El README contiene el propósito del proyecto, tecnologías utilizadas, estructura del proyecto, 
+instalación, ejecución, rutas de la API, login pedagógico, flujo de trabajo con Git y recomendaciones sobre 
+uso responsable de IA y manejo de información.
 
 3. Calendario editorial de dos semanas
 
 Describe el tema general del calendario editorial:
 
-Respuesta:
+Respuesta: El calendario editorial está enfocado en difusión responsable, participación comunitaria, revisión de 
+fuentes y comunicación clara para la comunidad.
 
 Número de piezas:
 
-Respuesta:
+Respuesta: El calendario editorial contiene varias piezas organizadas por semanas, canales y propósitos comunicativos.
 
 4. Difusión responsable
 
 ¿Cómo garantiza el proyecto una difusión responsable?
 
-Respuesta:
+Respuesta: El proyecto promueve el uso de lenguaje claro, revisión de fuentes, moderación editorial y evita compartir información sensible o no verificada.
 
 5. Revisión de fuentes
 
 ¿Cómo se revisa o menciona la fuente de la información?
 
-Respuesta:
+Respuesta: Cada mensaje y pieza editorial incluye una referencia de fuente para mantener transparencia y trazabilidad de la información publicada.
 
 6. Consistencia comunicativa
 
 ¿Cómo se mantiene coherencia entre mensajes y piezas?
 
-Respuesta:
+Respuesta: Los mensajes siguen una estructura similar con categoría, audiencia, tono y llamado a la acción, lo que ayuda a mantener coherencia en la comunicación.
 
 7. Moderación editorial básica
 
 ¿Qué criterios se deben revisar antes de publicar?
 
-Respuesta:
+Respuesta: Se deben revisar las fuentes, el tono del mensaje, la audiencia, el lenguaje utilizado y el llamado a la acción para asegurar una comunicación responsable.
 
 8. GitHub y trazabilidad
 
 ¿Qué commits o avances registraste durante la semana?
 
-Respuesta:
+Respuesta: Durante la semana registré avances relacionados con el consumo de API, carga dinámica de información, login pedagógico, middleware simple, actualización del README y documentación de evidencias.
 
 9. Conclusión personal
 
 ¿Por qué este proyecto es más completo que un ejercicio técnico aislado?
 
-Respuesta:
+Respuesta: Porque no solo trabaja la parte técnica del desarrollo web, sino también aspectos de comunicación responsable, documentación, trabajo con GitHub, organización de contenido y reflexión sobre el uso adecuado de la tecnología en contextos comunitarios.

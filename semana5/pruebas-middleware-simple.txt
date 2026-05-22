@@ -1,8 +1,8 @@
 Pruebas de middleware simple – Clase 25
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Tania Lizeth Trejo Santacruz
+Fecha: 21/05/2026
+Nombre de la rama: tania_lizeth_trejo_santacruz
 
 Importante:
 Este middleware es pedagógico. No representa seguridad real de producción.
@@ -15,10 +15,10 @@ Abrir el mini-sitio y probar la revisión editorial protegida sin iniciar sesió
 Resultado esperado:
 El sistema debe negar el acceso o indicar que falta token.
 
-Resultado observado:
+Resultado observado: El sistema mostró un mensaje indicando que faltaba el token de demostración y negó el acceso a la ruta protegida.
 
 ¿Funcionó?
-Respuesta:
+Respuesta: Sí. El middleware bloqueó correctamente el acceso sin login.
 
 Prueba 2: Login pedagógico
 
@@ -31,10 +31,10 @@ demo
 Resultado esperado:
 El sistema responde login pedagógico correcto y guarda token de demostración.
 
-Resultado observado:
+Resultado observado: El sistema mostró el mensaje de login correcto y almacenó el token pedagógico en localStorage.
 
 ¿Funcionó?
-Respuesta:
+Respuesta: Sí. El login pedagógico respondió correctamente.
 
 Prueba 3: Ruta protegida después del login
 
@@ -44,25 +44,25 @@ Probar revisión editorial protegida después del login.
 Resultado esperado:
 El sistema permite ver la respuesta de revisión editorial pedagógica.
 
-Resultado observado:
+Resultado observado: La ruta protegida mostró la información de revisión editorial y los criterios pedagógicos.
 
 ¿Funcionó?
-Respuesta:
+Respuesta: Sí. El acceso fue permitido después de validar el token.
 
 Prueba 4: Token incorrecto
 
 Explica qué debería pasar si el token no coincide con el esperado.
 
-Respuesta:
+Respuesta: El sistema debe negar el acceso y responder que el token de demostración no es válido.
 
 5. ¿Qué hace el middleware simple?
 
-Respuesta:
+Respuesta: El middleware verifica si la solicitud incluye un token válido antes de permitir el acceso a la ruta protegida.
 
 6. ¿Por qué este middleware no debe confundirse con seguridad real?
 
-Respuesta:
+Respuesta: Porque utiliza un token fijo y simple solo para fines pedagógicos. No implementa mecanismos reales de autenticación o cifrado.
 
 7. ¿Qué aprendiste sobre rutas públicas y rutas protegidas?
 
-Respuesta:
+Respuesta: Aprendí que las rutas públicas pueden consultarse libremente, mientras que las rutas protegidas requieren validación previa mediante un middleware.
